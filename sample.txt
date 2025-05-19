@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hiarvind 
-=======
-hi aravind 
->>>>>>> dev1
+
